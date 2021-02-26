@@ -16,7 +16,8 @@ public class UI {
 	k.setMsg(msg);
 	System.out.println("입력한 정보 : 전화번호["+k.getPh()+"] 문자[ "+k.getMsg()+"]");
 
-	
+
+
 	
 	}
 	
